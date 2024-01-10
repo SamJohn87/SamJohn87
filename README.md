@@ -1,7 +1,7 @@
 Hello, I'm Samantha Nisus-Johnson 👋
 Welcome to my GitHub! I'm a passionate web developer currently enrolled in a coding bootcamp, honing my skills and diving into the exciting world of technology.
 
-## About Me?
+## 🛠️ About Me?
 
 💡 Exploring the possibilities of web development.
 
