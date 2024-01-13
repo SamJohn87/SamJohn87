@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate web developer, making a comeback into the
 
 **Backend**: Express.js, Node.js, PHP
 
-**Database**: MongoDB, Firestore, MySQL
+**Database**: MongoDB, Firestore, SQL
 
 ## 🌐 Portfolio
 
