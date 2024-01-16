@@ -10,6 +10,8 @@ Welcome to my GitHub! I'm a passionate web developer, making a comeback into the
 
 📚 Committed to continuous learning and staying up-to-date with industry trends.
 
+...oh, and I love jigsaw puzzles.
+
 ## 🛠️ Tech Stack
 **Frontend**: HTML, CSS, JavaScript, Bootstrap, React, Redux, React Native
 
