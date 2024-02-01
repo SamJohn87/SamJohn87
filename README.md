@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate web developer, making a comeback into the
 ## 🛠️ Tech Stack
 **Frontend**: HTML, CSS, JavaScript, Bootstrap, React, Redux, React Native
 
-**Backend**: Express.js, Node.js, PHP
+**Backend**: Express.js, Node.js, PHP, Python
 
 **Database**: MongoDB, Firestore, SQL
 
