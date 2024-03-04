@@ -29,7 +29,7 @@ Feel free to reach out if you have interesting web development projects or if yo
 
 [LinkedIn](https://www.linkedin.com/in/samantha-nisus-johnson/)
 
-[Email Me!](samantha.nisus@gmail.com)
+[Email Me!](mailto:samantha.nisus@gmail.com)
 
 
 Looking forward to collaborating and building awesome things together! 🚀
