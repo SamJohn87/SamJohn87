@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate web developer, making a comeback into the
 
 💡 Exploring the possibilities of web development.
 
-🌱 Currently mastering technologies like React, React Native, Express.js, Node.js, and MongoDB.
+🌱 Currently mastering technologies like React, React Native, Express.js, and Node.js.
 
 📚 Committed to continuous learning and staying up-to-date with industry trends.
 
